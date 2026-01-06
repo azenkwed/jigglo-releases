@@ -5,7 +5,7 @@ This repository hosts public Windows builds of **Jigglo**, a lightweight tray ut
 ## Download
 
 - Latest version: **0.1.1**
-- Download ZIP: `Jigglo-0.1.1.zip` (click the file in this repo to download).
+- Download ZIP: [`Jigglo-0.1.1-win-x64.zip`](https://github.com/azenkwed/jigglo-releases/releases/tag/v0.1.1)
 
 Extract the ZIP somewhere you trust (for example, `C:\Users\<you>\Apps\Jigglo`) and run `Jigglo.exe`.
 
@@ -39,7 +39,7 @@ Because Jigglo is currently not code-signed, Windows SmartScreen may show a "Win
 
 To verify the 0.1.1 ZIP you downloaded, you can compare its SHA-256 hash:
 
-- `Jigglo-0.1.1.zip` SHA-256: `6C758AF2E58E92A23FFA6F11E41BCAFF60243177C4A9B42D6BEF3724419A8F29`
+- `Jigglo-0.1.1-win-x64.zip` SHA-256: `293E8234FBE84327EF01059ED6086CD48EE898A01281E319BCED61DDCE3C069E`
 
 ## Support Jigglo
 
